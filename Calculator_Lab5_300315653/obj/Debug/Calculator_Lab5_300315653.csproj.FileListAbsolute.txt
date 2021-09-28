@@ -1,0 +1,10 @@
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\bin\Debug\Calculator_Lab5_300315653.exe.config
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\bin\Debug\Calculator_Lab5_300315653.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\bin\Debug\Calculator_Lab5_300315653.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.csprojAssemblyReference.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.Form1.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.Properties.Resources.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.csproj.GenerateResource.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.csproj.CoreCompileInputs.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 5\Calculator_Lab5_300315653\obj\Debug\Calculator_Lab5_300315653.pdb
